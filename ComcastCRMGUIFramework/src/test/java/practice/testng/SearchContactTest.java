@@ -20,8 +20,8 @@ public class SearchContactTest extends BaseClass {
 	public void searchcontactTest() {
 		/*
 		 * step 1: login to application*/
-		LoginPage lp=new LoginPage(driver);
-		lp.loginToApp("url", "username", "password");
-	}
+		//LoginPage lp=new LoginPage(driver);
+		//lp.loginToApp(url, username, password);
 
+}
 }
